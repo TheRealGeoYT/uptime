@@ -2,12 +2,12 @@
   "services": [
     {
       "name": "Hauptwebsite",
-      "url": "https://deine-website.de",
+      "url": "therealgeo.de",
       "expected_code": 200
     },
     {
       "name": "API Service",
-      "url": "https://api.deine-website.de/health",
+      "url": "status.therealgeo.de",
       "expected_code": 200
     }
   ]
