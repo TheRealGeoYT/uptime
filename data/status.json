@@ -1,0 +1,21 @@
+{
+  "timestamp": 1790865567,
+  "results": [
+    {
+      "name": "Hauptwebsite",
+      "url": "https://deine-website.de",
+      "up": true,
+      "status_code": 200,
+      "latency_ms": 1395.4,
+      "error": ""
+    },
+    {
+      "name": "API Service",
+      "url": "https://api.deine-website.de/health",
+      "up": false,
+      "status_code": null,
+      "latency_ms": 330.36,
+      "error": "HTTPSConnectionPool(host='api.deine-website.de', port=443): Max retries exceeded with url: /health (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'api.deine-website.de'. (_ssl.c:1082)\")))"
+    }
+  ]
+}
