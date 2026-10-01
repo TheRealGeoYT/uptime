@@ -1,0 +1,14 @@
+{
+  "services": [
+    {
+      "name": "Hauptwebsite",
+      "url": "https://deine-website.de",
+      "expected_code": 200
+    },
+    {
+      "name": "API Service",
+      "url": "https://api.deine-website.de/health",
+      "expected_code": 200
+    }
+  ]
+}
