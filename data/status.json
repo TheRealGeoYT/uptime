@@ -1,21 +1,21 @@
 {
-  "timestamp": 1790865567,
+  "timestamp": 1790866387,
   "results": [
     {
       "name": "Hauptwebsite",
-      "url": "https://deine-website.de",
-      "up": true,
-      "status_code": 200,
-      "latency_ms": 1395.4,
-      "error": ""
+      "url": "therealgeo.de",
+      "up": false,
+      "status_code": null,
+      "latency_ms": 0.6,
+      "error": "Invalid URL 'therealgeo.de': No scheme supplied. Perhaps you meant https://therealgeo.de?"
     },
     {
       "name": "API Service",
-      "url": "https://api.deine-website.de/health",
+      "url": "status.therealgeo.de",
       "up": false,
       "status_code": null,
-      "latency_ms": 330.36,
-      "error": "HTTPSConnectionPool(host='api.deine-website.de', port=443): Max retries exceeded with url: /health (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'api.deine-website.de'. (_ssl.c:1082)\")))"
+      "latency_ms": 0.36,
+      "error": "Invalid URL 'status.therealgeo.de': No scheme supplied. Perhaps you meant https://status.therealgeo.de?"
     }
   ]
 }
