@@ -1,12 +1,12 @@
 {
-  "timestamp": 1790991378,
+  "timestamp": 1790992110,
   "results": [
     {
       "name": "Hauptwebsite",
       "url": "therealgeo.de",
       "up": false,
       "status_code": null,
-      "latency_ms": 0.5,
+      "latency_ms": 0.32,
       "error": "Invalid URL 'therealgeo.de': No scheme supplied. Perhaps you meant https://therealgeo.de?"
     },
     {
@@ -14,7 +14,7 @@
       "url": "status.therealgeo.de",
       "up": false,
       "status_code": null,
-      "latency_ms": 0.3,
+      "latency_ms": 0.27,
       "error": "Invalid URL 'status.therealgeo.de': No scheme supplied. Perhaps you meant https://status.therealgeo.de?"
     }
   ]
