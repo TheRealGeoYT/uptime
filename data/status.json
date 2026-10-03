@@ -1,5 +1,5 @@
 {
-  "timestamp": 1790994238,
+  "timestamp": 1790995550,
   "results": [
     {
       "name": "Hauptwebsite",
@@ -14,7 +14,7 @@
       "url": "status.therealgeo.de",
       "up": false,
       "status_code": null,
-      "latency_ms": 0.38,
+      "latency_ms": 0.35,
       "error": "Invalid URL 'status.therealgeo.de': No scheme supplied. Perhaps you meant https://status.therealgeo.de?"
     }
   ]
