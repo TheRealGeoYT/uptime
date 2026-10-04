@@ -2,12 +2,12 @@
   "services": [
     {
       "name": "Hauptwebsite",
-      "url": "therealgeo.de",
+      "url": "https://therealgeo.de",
       "expected_code": 200
     },
     {
-      "name": "API Service",
-      "url": "status.therealgeo.de",
+      "name": "SonstigeDienste",
+      "url": "https://status.therealgeo.de",
       "expected_code": 200
     }
   ]
