@@ -1,12 +1,12 @@
 {
-  "timestamp": 1791599838,
+  "timestamp": 1791600713,
   "results": [
     {
       "name": "Hauptwebsite",
       "url": "https://therealgeo.de",
       "up": true,
       "status_code": 200,
-      "latency_ms": 531.44,
+      "latency_ms": 376.6,
       "error": ""
     },
     {
@@ -14,7 +14,7 @@
       "url": "https://status.therealgeo.de",
       "up": true,
       "status_code": 200,
-      "latency_ms": 393.54,
+      "latency_ms": 538.71,
       "error": ""
     }
   ]
